@@ -1,5 +1,5 @@
 # Experiment 2: DDL Commands.
-# Name: Rahul V
+# Name: MOHAN KRISHNA J
 
 ## AIM:
 To study and implement DDL commands and different types of constraints.
