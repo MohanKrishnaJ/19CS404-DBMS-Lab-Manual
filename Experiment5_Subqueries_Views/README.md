@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-### Name : RAHUL V
-### Reg.No : 212223240133
+### Name : MOHAN KRISHNA J
+### Reg.No : 212223220060
 ## AIM
 To study and implement subqueries and views.
 
